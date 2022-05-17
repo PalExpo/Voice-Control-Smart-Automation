@@ -4,6 +4,8 @@ Voice Controlled Smart Automation System using ESP32 Devkit V1 Wi-Fi module, whe
 
 The phone gets connected to Local Wi-Fi. The Android app that is created using the MIT app developer has switch buttons that can be pressed to control the appliances or simply you can download our app from the link.
 
+Main_Code (.ino) is for ESP32 Devkit V1 Module and can be uploaded using Arduino IDE, but it can also be uploaded from VSCode Platform IO too with some adjustment.
+
 App can be downloaded by file: Home_Relay_Voice_Ctrl_V2.apk; just download the file and install in your android phone.
 
 Youtube link: https://www.youtube.com/watch?v=NrvUGqOe-kQ&ab_channel=PalTech
